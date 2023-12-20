@@ -222,14 +222,4 @@
 </html>
 
 
-<?php
-    $names = [
-        "ameen ali ", 
-        "ahmed " , 
-        "laili" 
-    ] ; 
-echo "ameen ali " ; 
-        function ameen() {
-            print_r($names); 
-        }
-?>
+<!-- main program is very funtastic  -->
